@@ -1,0 +1,40 @@
+{
+  "tenders": {
+    "lookback_days_first_run": 1060,
+    "lookback_days_daily": 10,
+    "search_terms": [
+      "sonar",
+      "hydrophone",
+      "\"multibeam\"",
+      "\"underwater acoustic\"",
+      "\"focused ultrasound\"",
+      "HIFU",
+      "histotripsy",
+      "lithotripsy",
+      "lithotripter",
+      "\"shock wave\"",
+      "\"ultrasound probe\"",
+      "\"ultrasound probes\"",
+      "piezoelectric",
+      "\"piezo actuator\"",
+      "nanopositioning",
+      "\"ultrasonic testing\"",
+      "\"phased array\"",
+      "\"ultrasonic flowmeter\"",
+      "\"ultrasonic sensor\""
+    ]
+  },
+  "patents": {
+    "rss_feeds": [
+      {
+        "name": "Feed 1",
+        "url": "https://patentscope.wipo.int/search/en/78c743ac-71c6-4e69-9222-c05bc6803272/rss.xml"
+      },
+      {
+        "name": "Feed 2",
+        "url": "https://patentscope.wipo.int/search/en/91d27097-1353-4f12-8961-17fdb81ff435/rss.xml"
+      }
+    ],
+    "competitors": []
+  }
+}
