@@ -2434,5 +2434,19 @@
   "segment": "Medical Technology",
   "dedupe": "nnk részére ultrahangok és dermatoszkóp beszerzése|közbeszerzési és ellátási főigazgatóság",
   "link": "https://ted.europa.eu/en/notice/-/detail/23128-2024"
+ },
+ "827350-2026": {
+  "id": "827350-2026",
+  "date": "2026-11-27",
+  "country": "Germany",
+  "category": "Medical equipments",
+  "title": "HiFu System",
+  "buyer": "Universitätsklinikum Hamburg-Eppendorf",
+  "deadline": "",
+  "relevance": "Medium",
+  "why": "System level: equipment built around piezo transducers – demand signal for OEM customers",
+  "segment": "Medical Technology",
+  "dedupe": "hifu system|universitätsklinikum hamburg-eppendorf",
+  "link": "https://ted.europa.eu/en/notice/-/detail/827350-2026"
  }
 }
